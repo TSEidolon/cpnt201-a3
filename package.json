@@ -1,0 +1,15 @@
+{
+  "name": "assignment3-cssframeworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "Edgar Caballero",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
