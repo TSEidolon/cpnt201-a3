@@ -5,10 +5,7 @@
 Github Repo:
  - <a href="https://github.com/TSEidolon/cpnt201-a3" target="_blank"> Edgar's Repo </a>
 Github Pages:
- - <a href="https://github.com/TSEidolon/cpnt201-a3" target="_blank"> Edgar's Live Pages </a>
-
-
-
+ - <a href="https://tseidolon.github.io/cpnt201-a3/" target="_blank"> Edgar's Live Pages </a>
 
 
 Troubleshooting:
